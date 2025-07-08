@@ -1,1 +1,5 @@
-while True: print(input())
+while True:
+    A = input()
+    if A == "":
+        break
+    print(A)
