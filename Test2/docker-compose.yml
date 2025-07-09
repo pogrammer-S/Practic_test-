@@ -1,0 +1,4 @@
+services:
+  test2:
+    build: .
+    env_file: C:\Users\praktikant\Documents\GitHub\Practic_test-\Test2\Test2ENV.env
